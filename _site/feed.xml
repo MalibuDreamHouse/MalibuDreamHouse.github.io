@@ -5,17 +5,17 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>https://malibudreamhouse.github.io/</link>
     <atom:link href="https://malibudreamhouse.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Jan 2016 17:21:12 -0800</pubDate>
-    <lastBuildDate>Sun, 24 Jan 2016 17:21:12 -0800</lastBuildDate>
+    <pubDate>Sun, 24 Jan 2016 17:54:40 -0800</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 17:54:40 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>The Circle and the Fork</title>
         <description>
 </description>
-        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://malibudreamhouse.github.io/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://malibudreamhouse.github.io/web%20development/2014/07/17/project-2/</guid>
+        <pubDate>Fri, 17 Jul 2015 00:00:00 -0700</pubDate>
+        <link>https://malibudreamhouse.github.io/web%20development/2015/07/17/project-2/</link>
+        <guid isPermaLink="true">https://malibudreamhouse.github.io/web%20development/2015/07/17/project-2/</guid>
         
         
         <category>web development</category>
@@ -34,6 +34,28 @@
       </item>
     
       <item>
+        <title>Flat Areas and Slopes</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
+        <link>https://malibudreamhouse.github.io/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">https://malibudreamhouse.github.io/2014/07/15/project-6/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Property</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
+        <link>https://malibudreamhouse.github.io/2014/07/15/project-5/</link>
+        <guid isPermaLink="true">https://malibudreamhouse.github.io/2014/07/15/project-5/</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Parking Lot A</title>
         <description>
 </description>
@@ -45,23 +67,12 @@
       </item>
     
       <item>
-        <title>The Property</title>
-        <description>
-</description>
-        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://malibudreamhouse.github.io/2014/07/15/project-1/</link>
-        <guid isPermaLink="true">https://malibudreamhouse.github.io/2014/07/15/project-1/</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>Parking Lot B</title>
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://malibudreamhouse.github.io/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://malibudreamhouse.github.io/2014/07/14/project-5/</guid>
+        <link>https://malibudreamhouse.github.io/2014/07/14/project-1/</link>
+        <guid isPermaLink="true">https://malibudreamhouse.github.io/2014/07/14/project-1/</guid>
         
         
       </item>

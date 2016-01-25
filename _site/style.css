@@ -16,7 +16,10 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #333;
 }
-
+.icon-alignment{
+  font-size: 90px !important;
+  margin-top: 30px !important;
+}
 .text-muted {
     color: #777;
 }
