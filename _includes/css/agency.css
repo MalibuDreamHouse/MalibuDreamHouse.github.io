@@ -10,7 +10,7 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 .icon-alignment{
-  font-size: 1.6em !important;
+  font-size: 3em !important;
   margin-top: .25em !important;
 }
 .text-muted {
@@ -243,7 +243,10 @@ fieldset[disabled] .btn-xl.active {
         -moz-transition: padding .3s;
         transition: padding .3s;
     }
-
+    .icon-alignment{
+      font-size: 3.5em !important;
+      margin-top: .25em !important;
+    }
     .navbar-default .navbar-brand {
         font-size: 2em;
         -webkit-transition: all .3s;
@@ -585,6 +588,10 @@ section h3.section-subheading {
 @media(min-width:992px) {
     .timeline>li {
         min-height: 150px;
+    }
+    .icon-alignment{
+      font-size: 6em !important;
+      margin-top: .25em !important;
     }
 
     .timeline>li .timeline-panel {
