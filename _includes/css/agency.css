@@ -10,8 +10,8 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 .icon-alignment{
-  font-size: 90px !important;
-  margin-top: 30px !important;
+  font-size: 1.6em !important;
+  margin-top: .25em !important;
 }
 .text-muted {
     color: #777;
