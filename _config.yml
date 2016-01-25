@@ -1,0 +1,17 @@
+url: https://malibudreamhouse.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Malibu Dream House
+email: alex.scott.thomsen@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 46CDF5
+  secondary: B6E471
+  secondary-dark: 333
+
+# Build settings
+markdown: kramdown
+permalink: pretty
