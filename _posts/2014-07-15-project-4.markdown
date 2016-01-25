@@ -1,15 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Parking Lot A
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: parkinglot-a.jpg
+thumbnail: parkinglot-a.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: After you take the fork up to the back, the first area you come to is known as Parking Lot A (because I just made that up). This area includes the paved area by the kitchen entrance and Turdis, the adjacent flat unpaved area, some rugged spot off the driveway up (on map as A15 and A16, 4x4 recommended), plus an extra side space for a small car. The main paved area is meant to go 2 cars deep; if you are the first in, pull all the way up and slightly over the edge of the blacktop to allow a second car behind you. The spaces are clearly painted. The unpaved area is open for tents during camping events. Otherwise cars may park there, this space should be able to handle two cars side by side. There is a small space in the corner (on map as A14 here) where a compact car can fit if necessary (Mini, SmartCar, or teenie Fiat only, please). <br /> <br /> IF YOU DO PARK HERE pull as far to the side as you can, stay parallel with the road, and use your parking brake!
 
 ---

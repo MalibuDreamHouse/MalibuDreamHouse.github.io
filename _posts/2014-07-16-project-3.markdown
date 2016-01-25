@@ -1,15 +1,10 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Front Driveway
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+img: front-driveway.jpg
+thumbnail: front-driveway.jpg
+description: Unless you are specifically invited or directed to park here, this driveway is off limits. Motorcycles may park up at the very top of this driveway near the outhouse. If you're coming in an RV, you will likely be directed here, but if you're coming in an RV you've already worked that out with the Pennys and don't need this page to tell you that. <br /><br /> "But I'm only dropping off/unloading my shit"... Yes, and you will likley be fine to do so. Checking in first is better than assuming, so we can avoid problems or gridlock. In general if you are a DJ or otherwise bringing party-related equipment, unloading up by the garage is fine. If you just brought a lot of stuff for camping, this isn't the place to unload it. Better to ask the Czar than have Mr. Penny come out to have a word with you... <br /><br /> IF you do indeed park on the driveway, please park on the ocean side as far over as you can, facing the exit. There MUST be room for cars to get by you easily. 
 
 ---

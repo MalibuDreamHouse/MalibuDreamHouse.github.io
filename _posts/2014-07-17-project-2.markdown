@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: The Circle and the Fork
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: circle-fork.jpg
+thumbnail: circle-fork.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: For smaller parties, parking on the blacktop lots should be easy and sufficient. For any other events, use the following breakdown as a guideline. The markings on the map here are explained in the sections below. PLEASE DO NOT PARK IN THE NEIGHBORS SPACES OR BLOCK ANY PART OF ANY DRIVEWAY.
+
 
 ---

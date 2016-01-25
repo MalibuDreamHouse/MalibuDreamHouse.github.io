@@ -1,15 +1,12 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Parking Lot B
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: parkinglot-b.jpg
+thumbnail: parkinglot-b.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Past the first paved lot is a slope that will take you to Parking Lot B (upper paved area, next to the black astroturf). This is meant to be parked in 2 cars deep. You'll note the small white fencing at the edge of the blacktop, it means DO NOT PARK ON THE ASTROTURF. Pretty self explanatory, but reminders are surprisingly needed.<br /> <br /> NOTE This *used* to be for car-camping... aaaand it still is, BUT (of course there's a "but") only if the non-paved flat areas are full. Ideally, paved spots are for people not staying long or in need of easy access (handicap, injuries, etc).<br /> <br />Note the unpaved driveway coming up from the lower lot and turning right along the upper lot and turf... THIS IS A DRIVEWAY, NOT A PARKING AREA! There are also signs on the property calling this out. DO NOT PARK IN THE DRIVEWAY, EVER. NOT EVEN FOR "QUICK UNLOADING"...
 
 ---

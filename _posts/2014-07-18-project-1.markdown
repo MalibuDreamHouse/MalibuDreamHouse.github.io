@@ -1,15 +1,12 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: The Property
+subtitle: Please do not park in the neighbors driveway
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+modal-id: 6
+date: 2014-07-15
+img: the-property.jpg
+thumbnail: the-property.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: For smaller parties, parking on the blacktop lots should be easy and sufficient. For any other events, use the following breakdown as a guideline. The markings on the map here are explained in the sections below.
 
 ---
