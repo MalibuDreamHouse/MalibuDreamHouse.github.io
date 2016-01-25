@@ -3,10 +3,10 @@
   <channel>
     <title>Malibu Dream House</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>https://malibudreamhouse.github.io/agency-jekyll-theme//</link>
-    <atom:link href="https://malibudreamhouse.github.io/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Jan 2016 16:24:51 -0800</pubDate>
-    <lastBuildDate>Sun, 24 Jan 2016 16:24:51 -0800</lastBuildDate>
+    <link>https://malibudreamhouse.github.io/</link>
+    <atom:link href="https://malibudreamhouse.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 24 Jan 2016 16:51:00 -0800</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 16:51:00 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/18/project-1/</guid>
+        <link>https://malibudreamhouse.github.io/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://malibudreamhouse.github.io/web%20development/2014/07/18/project-1/</guid>
         
         
         <category>web development</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/17/project-2/</guid>
+        <link>https://malibudreamhouse.github.io/web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">https://malibudreamhouse.github.io/web%20development/2014/07/17/project-2/</guid>
         
         
         <category>web development</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/16/project-3/</guid>
+        <link>https://malibudreamhouse.github.io/web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">https://malibudreamhouse.github.io/web%20development/2014/07/16/project-3/</guid>
         
         
         <category>web development</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-6/</guid>
+        <link>https://malibudreamhouse.github.io/web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">https://malibudreamhouse.github.io/web%20development/2014/07/15/project-6/</guid>
         
         
         <category>web development</category>
@@ -66,8 +66,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-4/</guid>
+        <link>https://malibudreamhouse.github.io/web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">https://malibudreamhouse.github.io/web%20development/2014/07/15/project-4/</guid>
         
         
         <category>web development</category>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 -0700</pubDate>
-        <link>https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://malibudreamhouse.github.io/agency-jekyll-theme//web%20development/2014/07/14/project-5/</guid>
+        <link>https://malibudreamhouse.github.io/web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">https://malibudreamhouse.github.io/web%20development/2014/07/14/project-5/</guid>
         
         
         <category>web development</category>
