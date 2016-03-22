@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Malibu Dream House</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <description>We&#39;re happy to have you at the Malibu Dream house, Here&#39;s everything you need to know</description>
     <link>https://malibudreamhouse.github.io/</link>
     <atom:link href="https://malibudreamhouse.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 Jan 2016 10:19:49 -0800</pubDate>
-    <lastBuildDate>Sun, 31 Jan 2016 10:19:49 -0800</lastBuildDate>
+    <pubDate>Mon, 21 Mar 2016 12:06:53 -0700</pubDate>
+    <lastBuildDate>Mon, 21 Mar 2016 12:06:53 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
